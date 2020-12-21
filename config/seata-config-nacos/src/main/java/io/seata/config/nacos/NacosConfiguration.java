@@ -15,6 +15,7 @@
  */
 package io.seata.config.nacos;
 
+import java.util.ListIterator;
 import java.util.Objects;
 import java.util.Properties;
 import java.util.Set;
